@@ -14,6 +14,7 @@ Problem Id | Problem Name | Problem Type | Status
 ---------|-------|-------|------
 1000|A + B|Math|AC
 1039|字符消除|String|AC
+1056|补提交卡|Greedy|AC
 
 
 
