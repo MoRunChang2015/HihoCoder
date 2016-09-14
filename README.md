@@ -16,6 +16,7 @@ Problem Id | Problem Name | Problem Type | Status
 1039|字符消除|String|AC
 1056|补提交卡|Greedy|AC
 1082|The Marshtomp has seen it all beforestrings|String|AC
+1094|Lost in the City|Enumeration|AC
 
 
 ----------
