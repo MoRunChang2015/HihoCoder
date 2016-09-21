@@ -28,4 +28,4 @@ Hiho week
 
 Week | Algorithm | Status
 ----|-----|-----
-115|Ford-Fulkerson, an algorithm to solve maximum flow problem|Studying
+116|max-flow min-cut theory|Studying
