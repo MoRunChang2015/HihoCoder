@@ -1,4 +1,4 @@
-# Solution to the problem in [hihoCoder](http://hihocoder.com/hiho)
+# Solution to the problems in [hihoCoder](http://hihocoder.com/hiho)
 
 ----------
 
