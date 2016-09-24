@@ -4,7 +4,13 @@
 
 + All code write in **C++** or **Python**
 + **Welcome** to come up with **better** ideas and **study together!**
++ usage (in Ubuntu 16.04 using g++)
+```shell
+make <problem id>
+bin/<problem id>
+```
 + Author: MoRunChang, SYSU
+
 
 ---------
 
