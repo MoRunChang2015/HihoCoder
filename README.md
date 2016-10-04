@@ -25,6 +25,7 @@ Problem Id | Problem Name | Problem Type | Status
 1094|Lost in the City|Enumeration|AC
 1038|01背包|DP|AC
 1097|最小生成树一·Prim算法|Prim
+1098|最小生成树二·Kruscal算法|Kruscal
 
 
 ----------
