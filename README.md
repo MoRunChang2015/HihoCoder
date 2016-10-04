@@ -26,6 +26,7 @@ Problem Id | Problem Name | Problem Type | Status
 1038|01背包|DP|AC
 1097|最小生成树一·Prim算法|Prim|AC
 1098|最小生成树二·Kruscal算法|Kruscal|AC
+1037|数字三角形|DP|AC
 
 
 ----------
