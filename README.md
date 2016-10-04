@@ -24,6 +24,7 @@ Problem Id | Problem Name | Problem Type | Status
 1082|The Marshtomp has seen it all beforestrings|String|AC
 1094|Lost in the City|Enumeration|AC
 1038|01背包|DP|AC
+1097|最小生成树一·Prim算法|Prim
 
 
 ----------
