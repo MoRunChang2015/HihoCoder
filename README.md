@@ -35,4 +35,4 @@ Hiho week
 
 Week | Algorithm | Status
 ----|-----|-----
-117|max flow algorithm|Studying
+118|minimum path cover in DAG using max flow algorithm|Studying
