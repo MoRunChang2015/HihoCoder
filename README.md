@@ -27,6 +27,7 @@ Problem Id | Problem Name | Problem Type | Status
 1097|最小生成树一·Prim算法|Prim|AC
 1098|最小生成树二·Kruscal算法|Kruscal|AC
 1037|数字三角形|DP|AC
+1089|最短路径·二：Floyd算法|Floyd|AC
 
 
 ----------
@@ -38,4 +39,3 @@ Hiho week
 
 Week | Algorithm | Status
 ----|-----|-----
-118|minimum path cover in DAG using max flow algorithm|Studying
