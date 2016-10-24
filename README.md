@@ -28,6 +28,7 @@ Problem Id | Problem Name | Problem Type | Status
 1098|最小生成树二·Kruscal算法|Kruscal|AC
 1037|数字三角形|DP|AC
 1089|最短路径·二：Floyd算法|Floyd|AC
+1049|后序遍历|Divide and conquer|AC
 
 
 ----------
