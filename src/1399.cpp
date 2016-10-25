@@ -3,7 +3,7 @@ using namespace std;
 int main() {
     ios::sync_with_stdio(false);
     int a[1000005] = {0};
-    int n, i, cnt = 0, t = 0;;
+    int n, i, cnt = 0, t = 0;
     long long x;
     cin >> n;
     for (i = 1; i <= n; i++) {

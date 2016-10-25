@@ -1,6 +1,6 @@
+#include <cstdio>
 #include <iostream>
 #include <string>
-#include <cstdio>
 using namespace std;
 int getMonthNumber(string str) {
     if (str == "January") return 1;
@@ -17,7 +17,7 @@ int getMonthNumber(string str) {
     if (str == "December") return 12;
 }
 int main() {
-    //ios::sync_with_stdio(false);
+    // ios::sync_with_stdio(false);
     int ans, l, r, m, d, t, temp, i;
     string month;
     i = 0;

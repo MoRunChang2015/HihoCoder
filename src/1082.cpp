@@ -1,8 +1,8 @@
-#include <iostream>
-#include <string>
 #include <algorithm>
 #include <cctype>
 #include <cstdio>
+#include <iostream>
+#include <string>
 using namespace std;
 int main() {
     int i, j;

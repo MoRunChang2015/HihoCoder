@@ -1,5 +1,5 @@
-#include <iostream>
 #include <algorithm>
+#include <iostream>
 using namespace std;
 
 struct edge {
@@ -10,9 +10,7 @@ int f[100005], r[100005];
 int n, m;
 int ans;
 
-bool operator<(edge a, edge b) {
-    return a.d < b.d;
-}
+bool operator<(edge a, edge b) { return a.d < b.d; }
 
 int initSet(int n) {
     for (int i = 1; i <= n; i++) {
@@ -31,8 +29,7 @@ int getFather(int x) {
 void unionSet(int x, int y) {
     x = getFather(x);
     y = getFather(y);
-    if (x == y)
-        return;
+    if (x == y) return;
     if (r[x] > r[y]) {
         f[y] = x;
     } else {
@@ -55,8 +52,7 @@ int main() {
     i = 1;
     ans = 0;
     for (int k = 1; k <= n - 1; k++) {
-        while (getFather(e[i].s) == getFather(e[i].t))
-            i++;
+        while (getFather(e[i].s) == getFather(e[i].t)) i++;
         ans += e[i].d;
         unionSet(e[i].s, e[i].t);
         i++;

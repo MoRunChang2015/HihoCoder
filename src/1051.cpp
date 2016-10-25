@@ -1,5 +1,5 @@
-#include <iostream>
 #include <algorithm>
+#include <iostream>
 using namespace std;
 int main() {
     ios::sync_with_stdio(false);
@@ -8,15 +8,13 @@ int main() {
     cin >> t;
     while (t--) {
         cin >> n >> m;
-        for (i = 1; i <= n; i++)
-            cin >> a[i];
+        for (i = 1; i <= n; i++) cin >> a[i];
         a[0] = 0;
         a[n + 1] = 101;
         int len = min(n, m) + 1;
         int ans = 0;
         for (i = len; i <= n + 1; i++) {
-            if (ans < a[i] - a[i - len])
-                ans = a[i] - a[i - len];
+            if (ans < a[i] - a[i - len]) ans = a[i] - a[i - len];
         }
         cout << ans - 1 << endl;
     }

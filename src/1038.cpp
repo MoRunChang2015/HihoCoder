@@ -1,11 +1,11 @@
-#include <iostream>
 #include <algorithm>
+#include <iostream>
 using namespace std;
 int n, m;
-int f[100002] = { 0 };
+int f[100002] = {0};
 int main() {
     cin >> n >> m;
-    int i , j, c , v;
+    int i, j, c, v;
     for (j = 1; j <= n; j++) {
         cin >> c >> v;
         for (i = m; i >= c; i--) {

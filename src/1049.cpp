@@ -1,11 +1,10 @@
+#include <algorithm>
 #include <iostream>
 #include <string>
-#include <algorithm>
 using namespace std;
 string first, mid;
 void solve(int f, int m, int len) {
-    if (len == 0)
-        return;
+    if (len == 0) return;
     int index = 0;
     for (int i = 0; i < len; i++)
         if (mid[i + m] == first[f]) {

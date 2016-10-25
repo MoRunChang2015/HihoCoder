@@ -1,5 +1,5 @@
-#include <iostream>
 #include <algorithm>
+#include <iostream>
 using namespace std;
 int n, m;
 int map[1003][1003];
@@ -10,10 +10,8 @@ int main() {
     cin >> n;
     int i, j;
     for (i = 1; i <= n; i++)
-        for (j = 1; j <= n; j++)
-            cin >> map[i][j];
-    for (i = 1; i <= n; i++)
-        dct[i] = map[1][i], f[i] = 1;
+        for (j = 1; j <= n; j++) cin >> map[i][j];
+    for (i = 1; i <= n; i++) dct[i] = map[1][i], f[i] = 1;
     f[1] = 0;
     m = 1;
     int ans = 0;
@@ -26,14 +24,12 @@ int main() {
                     min = dct[i], p = i;
                 else if (min > dct[i])
                     min = dct[i], p = i;
-        if (p == -1)
-            break;
+        if (p == -1) break;
         ans += dct[p];
         f[p] = 0;
         m++;
         for (i = 1; i <= n; i++)
-            if (f[i] == 1)
-                dct[i] = dct[i] > map[p][i]? map[p][i]:dct[i];
+            if (f[i] == 1) dct[i] = dct[i] > map[p][i] ? map[p][i] : dct[i];
     }
     cout << ans << endl;
     return 0;
