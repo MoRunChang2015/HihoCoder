@@ -30,6 +30,7 @@ Problem Id | Problem Name | Problem Type | Status
 1089|最短路径·二：Floyd算法|Floyd|AC
 1049|后序遍历|Divide and conquer|AC
 1399|Shortening Sequence|Greedy|AC
+1148|February 29|Math|AC
 
 
 ----------
