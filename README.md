@@ -31,6 +31,7 @@ Problem Id | Problem Name | Problem Type | Status
 1049|后序遍历|Divide and conquer|AC
 1399|Shortening Sequence|Greedy|AC
 1148|February 29|Math|AC
+1014|Trie树|Trie|AC
 
 
 ----------
