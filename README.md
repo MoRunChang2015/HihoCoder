@@ -32,6 +32,7 @@ Problem Id | Problem Name | Problem Type | Status
 1399|Shortening Sequence|Greedy|AC
 1148|February 29|Math|AC
 1014|Trie树|Trie|AC
+1043|完全背包|DP|AC
 
 
 ----------
