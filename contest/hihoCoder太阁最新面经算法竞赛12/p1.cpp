@@ -1,9 +1,9 @@
-#include <iostream>
 #include <algorithm>
 #include <cstring>
+#include <iostream>
 using namespace std;
 int a[11] = {0};
-int d[5] = { 0 };
+int d[5] = {0};
 int main() {
     for (int i = 1; i <= 4; i++) {
         cin >> d[i];
@@ -33,17 +33,14 @@ int main() {
             flag = false;
         }
         if (flag) {
-            if (h < 10)
-                cout << "0";
+            if (h < 10) cout << "0";
             cout << h << ":";
-            if (m < 10)
-                cout << "0";
+            if (m < 10) cout << "0";
             cout << m << endl;
             return 0;
         }
         memset(a, 0, sizeof a);
-        for (int i = 1; i <= 4; i++)
-            a[d[i]]++;
+        for (int i = 1; i <= 4; i++) a[d[i]]++;
         m--;
         if (m == -1) {
             h--;
