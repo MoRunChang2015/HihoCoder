@@ -45,3 +45,16 @@ Hiho week
 
 Week | Algorithm | Status
 ----|-----|-----
+
+
+-----------
+
+Contests
+
+1. hihoCoder太阁最新面经算法竞赛12
+Problem Id | Problem Name | Problem Type | Status
+---------|-------|-------|------
+A|The Lastest Time|Enumeration|AC
+B|Smallest Sub Array|Sort|AC
+C|Powers of Two|Math|AC
+
