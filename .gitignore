@@ -1,4 +1,5 @@
 *.o
 *.gch
+*.out
 main
 bin/
