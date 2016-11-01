@@ -1,7 +1,7 @@
-#include <iostream>
-#include <vector>
-#include <string>
 #include <algorithm>
+#include <iostream>
+#include <string>
+#include <vector>
 using namespace std;
 vector<string> name;
 vector<int> f, r;
@@ -16,8 +16,7 @@ int getFather(int x) {
 void unit(int x, int y) {
     int fx = getFather(x);
     int fy = getFather(y);
-    if (fx == fy)
-        return;
+    if (fx == fy) return;
     if (r[fx] > r[fy]) {
         f[fy] = x;
     }
@@ -42,7 +41,7 @@ int main() {
         for (int i = 0; i < name.size(); i++) {
             if (name[i] == name1) {
                 id1 = i;
-            } else if (name[i] == name2){
+            } else if (name[i] == name2) {
                 id2 = i;
             }
         }
