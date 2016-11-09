@@ -34,7 +34,7 @@ Problem Id | Problem Name | Problem Type | Status
 1014|Trie树|Trie|AC
 1043|完全背包|DP|AC
 1288|Font Size|Binary Search|AC
-1066|无间道之并查集|disjoint set|AC
+1066|无间道之并查集|Disjoint set|AC
 
 
 ----------
