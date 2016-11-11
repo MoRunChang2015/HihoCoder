@@ -2,7 +2,7 @@
 
 ----------
 
-+ All code write in **C++** or **Python**
++ All code write in **C++**
 + **Welcome** to come up with **better** ideas and **study together!**
 + usage (in Ubuntu 16.04 using g++)
 ```shell
