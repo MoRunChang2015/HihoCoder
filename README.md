@@ -35,6 +35,7 @@ Problem Id | Problem Name | Problem Type | Status
 1043|完全背包|DP|AC
 1288|Font Size|Binary Search|AC
 1066|无间道之并查集|Disjoint set|AC
+1081|最短路径·一|Dijkstra|AC
 
 
 ----------
