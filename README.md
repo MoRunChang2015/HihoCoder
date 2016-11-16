@@ -66,3 +66,10 @@ C|Powers of Two|Math|AC
 Problem Id | Problem Name | Problem Type | Status
 ---------|-------|-------|------
 A|Bigint Multiplication|Math|AC
+
+
++ hihoCoder太阁最新面经算法竞赛15
+
+Problem Id | Problem Name | Problem Type | Status
+---------|-------|-------|------
+A|Boarding Passes|Graph|AC
