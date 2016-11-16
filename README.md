@@ -73,3 +73,4 @@ A|Bigint Multiplication|Math|AC
 Problem Id | Problem Name | Problem Type | Status
 ---------|-------|-------|------
 A|Boarding Passes|Graph|AC
+B|Sorting Photo Files|String|AC
