@@ -7,9 +7,12 @@ int main() {
     cin >> n;
     for (i = 1; i <= n; i++)
         cin >> a[i];
+    if (n == 1) {
+        cout << a[1] << endl;
+        return 0;
+    }
     i = n;
-    while (a[i - 1] < a[i] && i > 2)
-        i--;
+    while (a[i - 1] < a[i] && i > 2) i--;
     i--;
     for (int j = 1; j < i; j++)
         cout << a[j] << " ";
