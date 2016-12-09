@@ -4,7 +4,7 @@
 
 + All code write in **C++**
 + **Welcome** to come up with **better** ideas and **study together!**
-+ usage (in Ubuntu 16.04 using g++)
++ usage (in Ubuntu 16.04 using g++ **5.4.0**)
 ```shell
 make <problem id>
 bin/<problem id>
