@@ -40,6 +40,7 @@ Problem Id | Problem Name | Problem Type | Status
 1176|欧拉路·一|Math|AC
 1128|二分·二分查找|Binary Search|AC
 1283|hiho密码|Greedy|AC
+1163|博弈游戏·Nim游戏|Gaming|AC
 
 
 ----------
