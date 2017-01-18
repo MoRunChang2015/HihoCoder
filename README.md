@@ -43,6 +43,7 @@ Problem Id | Problem Name | Problem Type | Status
 1163|博弈游戏·Nim游戏|Gaming|AC
 1040|矩形判断|Geometry|AC
 1186|Coordinates|Math|AC
+1105|题外话·堆|Heap|AC
 
 
 ----------
