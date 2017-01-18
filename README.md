@@ -44,7 +44,7 @@ Problem Id | Problem Name | Problem Type | Status
 1040|矩形判断|Geometry|AC
 1186|Coordinates|Math|AC
 1105|题外话·堆|Heap|AC
-
+1149|Palindrome|DP|AC
 
 ----------
 
