@@ -45,6 +45,7 @@ Problem Id | Problem Name | Problem Type | Status
 1105|题外话·堆|Heap|AC
 1149|Palindrome|DP|AC
 1152|Lucky Substrings|String|AC
+1227|The Cats' Feeding Spots|Binary Search|AC
 
 ----------
 
