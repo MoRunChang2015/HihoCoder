@@ -2,8 +2,7 @@
 
 ----------
 
-+ All code write in **C++**
-+ **Welcome** to come up with **better** ideas and **study together!**
++ **C++** solution
 + usage (in Ubuntu 16.04 using g++ **5.4.0**)
 ```shell
 make <problem id>
@@ -45,6 +44,7 @@ Problem Id | Problem Name | Problem Type | Status
 1186|Coordinates|Math|AC
 1105|题外话·堆|Heap|AC
 1149|Palindrome|DP|AC
+1152|Lucky Substrings|String|AC
 
 ----------
 
