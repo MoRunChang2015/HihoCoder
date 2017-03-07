@@ -47,6 +47,7 @@ Problem Id | Problem Name | Problem Type | Status
 1152|Lucky Substrings|String|AC
 1227|The Cats' Feeding Spots|Binary Search|AC
 1400|Composition|DP|AC
+1174|拓扑排序·一|Topological sorting|AC
 
 ----------
 
