@@ -49,6 +49,7 @@ Problem Id | Problem Name | Problem Type | Status
 1400|Composition|DP|AC
 1174|拓扑排序·一|Topological sorting|AC
 1015|KMP算法|KMP|AC
+1032|最长回文子串|DP|AC
 
 ----------
 
