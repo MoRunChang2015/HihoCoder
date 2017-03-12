@@ -50,6 +50,8 @@ Problem Id | Problem Name | Problem Type | Status
 1174|拓扑排序·一|Topological sorting|AC
 1015|KMP算法|KMP|AC
 1032|最长回文子串|DP|AC
+1135|Magic Box|Math|AC
+1143|骨牌覆盖问题·一|Math|AC
 
 ----------
 
