@@ -53,6 +53,7 @@ Problem Id | Problem Name | Problem Type | Status
 1135|Magic Box|Math|AC
 1143|骨牌覆盖问题·一|Math|AC
 1234|Fractal|Math|AC
+1061|Beautiful String|String|AC
 
 ----------
 
